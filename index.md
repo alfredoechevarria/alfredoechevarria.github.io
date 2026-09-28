@@ -7,4 +7,4 @@ title: Hello World
 
 Hello, my name is Alfredo Echevarria.
 
-I am a Computer Science student at Boise State University.
+I'm a Computer Science student at Boise State University with an emphasis in Cybersecurity.
